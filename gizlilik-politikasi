@@ -1,0 +1,82 @@
+<!DOCTYPE html>
+<html lang="tr">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Gizlilik Politikası – [UYGULAMA ADI]</title>
+<meta name="description" content="Çengel Bulmaca gizlilik politikası: hangi verileri topluyoruz, nasıl kullanıyoruz ve kimlerle paylaşıyoruz.">
+<style>
+  :root{
+    --bg:#fbfbfa; --text:#1d2330; --muted:#5b6475; --line:#dfe3ea; --accent:#1f4fd8; --box:#f0f3f9;
+  }
+  @media (prefers-color-scheme: dark){
+    :root{ --bg:#14171e; --text:#e6e9f0; --muted:#9aa3b5; --line:#2a3040; --accent:#8aa8ff; --box:#1b2030; }
+  }
+  *{box-sizing:border-box}
+  body{margin:0;background:var(--bg);color:var(--text);font:17px/1.7 Georgia,"Times New Roman",serif}
+  main{max-width:46rem;margin:0 auto;padding:3rem 1.25rem 4rem}
+  h1{font:700 2rem/1.25 system-ui,-apple-system,"Segoe UI",sans-serif;margin:0 0 .25rem}
+  h2{font:650 1.25rem/1.3 system-ui,-apple-system,"Segoe UI",sans-serif;margin:2.5rem 0 .5rem;padding-top:1.25rem;border-top:1px solid var(--line)}
+  p,li{max-width:42rem}
+  .meta{color:var(--muted);font:.95rem system-ui,sans-serif;margin-bottom:2rem}
+  a{color:var(--accent)}
+  .box{background:var(--box);border-radius:6px;padding:1rem 1.25rem}
+  table{width:100%;border-collapse:collapse;font:.95rem/1.5 system-ui,sans-serif;display:block;overflow-x:auto}
+  th,td{text-align:left;padding:.6rem .7rem;border-bottom:1px solid var(--line);vertical-align:top}
+  th{font-weight:650}
+  :focus-visible{outline:2px solid var(--accent);outline-offset:2px}
+</style>
+</head>
+<body>
+<main>
+  <h1>Gizlilik Politikası</h1>
+  <p class="meta"><strong>Çengel Bulmaca</strong> · Yürürlük tarihi: [23.11.2026] · Son güncelleme: [23.11.2026]</p>
+
+  <p>Bu politika, <strong>Çengel Bulmaca</strong> uygulamasını ("Uygulama") kullandığınızda hangi kişisel verileri topladığımızı, bu verileri neden ve nasıl kullandığımızı, kimlerle paylaştığımızı ve sahip olduğunuz hakları açıklar. Uygulamayı kullanarak bu politikayı kabul etmiş olursunuz.</p>
+
+  <h2>1. Veri sorumlusu</h2>
+  <p>Veri sorumlusu: <strong>Beyza Tuncel</strong><br>
+  Adres: Eskişehir, Türkiye<br>
+  İletişim: <a href="mailto:beyzatuncel3@gmail.com">beyzatuncel3@gmail.com</a></p>
+
+  <h2>2. Topladığımız veriler</h2>
+  <table>
+    <thead><tr><th>Veri</th><th>Nasıl toplanır</th></tr></thead>
+    <tbody>
+      <tr><td>Teknik veriler: IP adresi, cihaz ve tarayıcı türü, oturum ve hata kayıtları</td><td>Uygulama kullanımı sırasında otomatik olarak</td></tr>
+    </tbody>
+  </table>
+  
+
+  <h2>3. Verileri neden kullanıyoruz</h2>
+  <ul>
+    
+    <li>Güvenliği sağlamak, kötüye kullanımı ve dolandırıcılığı önlemek</li>
+    <li>Uygulamayı geliştirmek ve hataları gidermek</li>
+    <li>Yasal yükümlülüklere uymak</li>
+  </ul>
+
+  <h2>4. Google kullanıcı verileri</h2>
+  <div class="box">
+      <p>Çengel Bulmaca'nın Google API'lerinden aldığı bilgilerin kullanımı ve başka bir uygulamaya aktarımı, <a href="https://developers.google.com/terms/api-services-user-data-policy">Google API Hizmetleri Kullanıcı Verileri Politikası</a>'na ve bu politikanın Sınırlı Kullanım gerekliliklerine uygundur.</p>
+  </div>
+
+  <h2>5. Verileri kimlerle paylaşıyoruz</h2>
+  <p>Kişisel verilerinizi satmayız. Yalnızca aşağıdaki durumlarda paylaşırız:</p>
+  <ul>
+    <li><strong>Hizmet sağlayıcılar:</strong> Uygulamayı çalıştırmamıza yardımcı olan barındırma (hosting), veritabanı ve e-posta gönderim hizmeti sağlayıcıları. Bunlar verileri yalnızca bizim adımıza ve talimatlarımız doğrultusunda işler. [Kullandığınız sağlayıcıları yazın.]</li>
+
+    <li><strong>Yasal zorunluluk:</strong> Yetkili makamların yasal talebi halinde.</li>
+  </ul>
+
+  
+  
+  
+  <h2>6. Politikada değişiklikler</h2>
+  <p>Bu politikayı zaman zaman güncelleyebiliriz. Önemli değişiklikleri bu sayfada ve gerekirse Uygulama içinde duyururuz. Sayfanın üstündeki "son güncelleme" tarihi en güncel sürümü gösterir.</p>
+
+  <h2>7. İletişim</h2>
+  <p>Bu politika hakkında sorularınız için: <a href="mailto:beyzatuncel3@gmail.com">beyzatuncel3@gmail.com</a></p>
+</main>
+</body>
+</html>
